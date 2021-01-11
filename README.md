@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Malungu 👋
+
+🌱 I’m skilled data analyst with 3 years of industry experience in collecting, organizing, interpreting and 
+preparation of various types of statistical figures. Energetic presenter and confident communicator with 
+the ability to circulate information in a way that is clear, efficient, and beneficial for end users. 
+Creative in finding solutions to problems and determining modifications for optimal use of organizational data. 
+Expert at providing realistic projections and establishing various scenarios to determine viable process strategies 
+to utilize. Organized and timely in providing staff, departmental members, and executive management with reports on 
+specific data findings and their impact on organizational growth and success. 
 
 <!--
 **DKMalungu/DKMalungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
