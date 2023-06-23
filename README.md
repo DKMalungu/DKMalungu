@@ -34,6 +34,14 @@ and passion for continuous learning in the field of data engineering.
 * TensorFlow: Knowledgeable in TensorFlow, an open-source machine learning framework. Acquired certification in TensorFlow development from the Google Mobile Academy. Applied TensorFlow in building a chatbot system as a Full Stack Software Engineer.
 * PyQt: Skilled in using PyQt framework for building smart meter water systems. Led a team in integrating and achieving bi-directional communication between sensors and the back-office system using PyQt.
 
+[![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Scala](https://img.shields.io/badge/Scala-2.13-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyQt](https://img.shields.io/badge/PyQt-5.15-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
+
+
 <!--
 **DKMalungu/DKMalungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
