@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Data engineer and entrepreneur based in **Nairobi, Kenya**. I'm **Lead Data Engineer at [Ardhisasa](https://ardhisasa.go.ke)**, Kenya's National Land Information Management System, and co-founder of **[Codetricraft](https://codetricraft.co.ke)**. 5+ years spanning IoT platforms, cloud infrastructure, and data engineering — currently focused on LLM workflows for business applications.
+Data engineer and entrepreneur based in **Nairobi, Kenya**. I'm **Lead Data Engineer at [Ardhisasa](https://ardhisasa.lands.go.ke/)**, Kenya's National Land Information Management System, and co-founder of **[Codetricraft](https://danielmalungu.dev)**. 5+ years spanning IoT platforms, cloud infrastructure, and data engineering — currently focused on LLM workflows for business applications.
 
 > *"Data engineering: where 90% of your time is waiting for pipelines to finish, and 10% is fixing why they failed."*
 
@@ -42,7 +42,7 @@ For the full toolset, certifications, and version details, see my [website](http
 
 ## 🎯 Highlights
 
-- 🏛️ **[Ardhisasa](https://ardhisasa.go.ke)** — ETL pipelines and data infrastructure for Kenya's national land registry
+- 🏛️ **[Ardhisasa](https://ardhisasa.lands.go.ke/)** — ETL pipelines and data infrastructure for Kenya's national land registry
 - 📄 **EDMS** — high-performance document digitization system with automated ETL and PostgreSQL backend
 - 💧 **IoT Smart Water Metering** — real-time backend serving thousands of IoT devices
 - ⚖️ **Sheria Platform** — data infrastructure for Kenya's legal tech ecosystem
